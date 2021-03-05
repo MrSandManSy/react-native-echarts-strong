@@ -1,0 +1,23 @@
+{
+  "name": "react-native-echarts-strong",
+  "version": "1.0.0",
+  "description": "Better charting tools based on native-echarts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.cnpmjs.org/MrSandManSy/react-native-echarts-strong.git"
+  },
+  "keywords": [
+    "react-native",
+    "echarts"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.63.3",
+    "react-native-webview": ">=10.9.1"
+  },
+  "author": "sy",
+  "license": "ISC"
+}
